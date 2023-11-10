@@ -1,5 +1,4 @@
-# LayerSort
-
+LayerSort
 ==============
 
 LayerSort is a simple utility plug-in sorts layers in either ascending or descending order.
